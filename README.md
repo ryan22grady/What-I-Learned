@@ -1,1 +1,12 @@
 # What-I-Learned
+
+### Self Assessment
+I learned more than I thought I would. I learned how valuable syntax is within each type of coding effort. While math was never my favorite, I can appreaciate the level of math that is involved in coding. Though, logic is just as important as well. In my self- assessment, I think that I was good at learning the syntax, though, weak at remembering how each one differs. It was difficult to switch between all the different types of syntax amongst the diffrent the systems. My biggest learning curve and challenge to myself is to maintain that knowledge. 
+
+### The team
+The team was great and we seemed to work together well. We worked to our strengths, assigned our definitive duties, and attempted to challenge ourselves as much as possible. Our the course of the project, we were all very committed to meeting on both days of the weekend and throughout the week to the point that we felt that we were teammates and helping to progress the group.
+
+### Summary of the project
+Mental health in the United States is omnipresent and ostensibly just finding its place in the spotlight, losing the stigma and taboo that was once tied to its existence. The progress became almost insidious and mostly overlooked though as the Corona Virus Infection Disease 2019 (COVID-19) swept the world and, in turn, the United States. COVID-19, a more acute and visible pulmonary disease overwhelmed many Americans in terms of risk and resulting consequences. Across the country, Americans were infected with COVID-19, or probably more common they were infected with the fear of contracting it. This anxiety was coupled and even combined with quarantine, potential job loss, departed family, and lack of genuine social interaction. Perhaps, the ever existing and predisposed pressures of low income, ethnic vulnerabilities, and general access to health care played a part in the overlapping unease of COVID-19. By looking at mental health data over the last three years, using pre and post-COVID years, Team Yellow seeks to discover just what variables, whether because of COVID-19 or not, truly changed the mental health landscape. Then, with other studies, decisionmakers could be triggered to give a harder look at just what resources need to be allocated, or reallocated, to help those Americans in need.
+
+We pulled multiple data sets from the CDC to help us complete the project. 
